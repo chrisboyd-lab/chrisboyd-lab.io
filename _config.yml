@@ -1,10 +1,7 @@
-title: "Internal Wiki"
-theme: just-the-docs
-logo: "/assets/logo.png" # Optional: Add a logo
-url: "https://chrisboyd-lab.github.io/wiki-docs"
-remote_theme: "just-the-docs/just-the-docs" # Use GitHub-hosted theme
+title: "Your Wiki Title"
+description: "A Wikipedia-like site powered by GitHub Pages and Just the Docs"
+remote_theme: "just-the-docs/just-the-docs" 
+search_enabled: true
 aux_links:
   "GitHub Repository": "https://github.com/chrisboyd-lab/wiki-docs"
-search_enabled: true
-nav_order: 1
-
+logo: "/assets/logo.png" 
