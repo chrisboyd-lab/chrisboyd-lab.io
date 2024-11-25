@@ -1,6 +1,5 @@
 ---
-parent: ReactJS-Starter-kit
-nav_order: 2
+parent: ReactJS_Starter-kit
 ---
 
 # Getting Started
