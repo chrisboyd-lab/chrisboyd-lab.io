@@ -5,3 +5,6 @@ url: "https://chrisboyd-lab.github.io/wiki-docs"
 remote_theme: "just-the-docs/just-the-docs" # Use GitHub-hosted theme
 aux_links:
   "GitHub Repository": "https://github.com/chrisboyd-lab/wiki-docs"
+search_enabled: true
+nav_order: 1
+
