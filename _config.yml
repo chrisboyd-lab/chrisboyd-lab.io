@@ -6,3 +6,4 @@ aux_links:
   "GitHub Repository": "https://github.com/chrisboyd-lab/wiki-docs"
 logo: "/images/logo.png" 
 color_scheme: dark
+color_scheme_toggle: true
