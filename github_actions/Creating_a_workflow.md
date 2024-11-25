@@ -1,6 +1,5 @@
 ---
-title: "Creating Workflows"
-nav_order: 2
+parent: GitHub Actions
 ---
 
 # Creating Workflows
