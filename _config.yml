@@ -1,7 +1,7 @@
-title: "Your Wiki Title"
+title: "Internal Wiki"
 theme: just-the-docs
 logo: "/assets/logo.png" # Optional: Add a logo
-url: "https://username.github.io/wiki-docs"
+url: "https://chrisboyd-lab.github.io/wiki-docs"
 remote_theme: "just-the-docs/just-the-docs" # Use GitHub-hosted theme
 aux_links:
-  "GitHub Repository": "https://github.com/username/wiki-docs"
+  "GitHub Repository": "https://github.com/chrisboyd-lab/wiki-docs"
