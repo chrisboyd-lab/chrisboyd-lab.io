@@ -4,5 +4,5 @@ remote_theme: "just-the-docs/just-the-docs"
 search_enabled: true
 aux_links:
   "GitHub Repository": "https://github.com/chrisboyd-lab/wiki-docs"
-logo: "/assets/logo.png" 
+logo: "/images/logo.png" 
 color_scheme: dark
