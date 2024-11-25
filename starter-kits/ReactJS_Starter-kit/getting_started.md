@@ -1,5 +1,5 @@
 ---
-parent: ReactJS Starter-kit
+parent: ReactJS-Starter-kit
 ---
 
 # Getting Started
