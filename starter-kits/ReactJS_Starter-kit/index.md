@@ -1,6 +1,5 @@
 ---
-has_children: true
-parent: starter-kits
+parent: Starter-kits
 ---
 
 # ReactJS_Starter-kit
