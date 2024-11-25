@@ -1,5 +1,5 @@
 ---
-parent: ReactJS-Starter-kit
+parent: ReactJS_Starter-kit
 ---
 
 # Best Practices
