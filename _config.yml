@@ -5,3 +5,4 @@ search_enabled: true
 aux_links:
   "GitHub Repository": "https://github.com/chrisboyd-lab/wiki-docs"
 logo: "/assets/logo.png" 
+color_scheme: dark
