@@ -1,6 +1,5 @@
 ---
-title: "Best Practices"
-nav_order: 1
+parent: GitHub Actions
 ---
 
 # GitHub Actions Overview
